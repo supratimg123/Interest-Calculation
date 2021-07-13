@@ -6,4 +6,5 @@ floating_rate.ipynb :  python code for calculation of interest,impact or adjuste
 test_sample.xlsx : Input excel file for fixed rate calculation.<br>
 floating_rate_port.xlsx : Input excel file for floating rate calculation.<br> 
 mixed_rate.ipynb: combined code for mixed input of fixed and floating rate (mvp-3).<br>
-mixed_type.xlsx: sample input data for mixed_rate (mvp-3).ipynb
+mixed_type.xlsx: sample input data for mixed_rate (mvp-3).ipynb.<br>
+interest_rates.xlsx: contains LIBOR,SOFR,SONIA,TIIE and BSBY interest rates for daily, monthly,weekly,quarterly,halfyearly and yearly.<br>
